@@ -557,6 +557,60 @@ autoplay = "RESET"
 [node name="coin" parent="pickups_test" instance=ExtResource("4_4fylm")]
 position = Vector2(-316, 115)
 
+[node name="coin6" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(376, 118)
+
+[node name="coin7" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(457, 119)
+
+[node name="coin8" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(281, -8)
+
+[node name="coin9" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(296, -8)
+
+[node name="coin10" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(289, -21)
+
+[node name="coin11" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(24, 29)
+
+[node name="coin12" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(73, -19)
+
+[node name="coin13" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(623, 122)
+
+[node name="coin14" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(680, 122)
+
+[node name="coin15" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(787, 120)
+
+[node name="coin16" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(740, 121)
+
+[node name="coin17" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(568, 124)
+
+[node name="coin18" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(520, 126)
+
+[node name="coin19" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(209, 181)
+
+[node name="coin20" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(240, 180)
+
+[node name="coin21" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(273, 181)
+
+[node name="coin22" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(311, 181)
+
+[node name="coin23" parent="pickups_test" instance=ExtResource("4_4fylm")]
+position = Vector2(104, 152)
+
 [node name="coin2" parent="pickups_test" instance=ExtResource("4_4fylm")]
 position = Vector2(-291, 116)
 
